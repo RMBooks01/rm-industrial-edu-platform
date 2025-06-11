@@ -11,7 +11,7 @@ Facilitate career mentorship and early industrial exposure to foster interest an
 
 Build a self-sustaining model post-grant through monetization and strategic partnerships.
 
-Target Audience
+Target Audience:
 
 Grade 8–11 female learners
 
@@ -39,7 +39,8 @@ Infrastructure Development:
 
 *Environmental and community impact of infrastructure projects.
 
-*Exposure to sustainable practices and smart infrastructure.
+*Exposure to sustainable practices and smart infrastructure
+
 Modules:
 
 *Intro to Manufacturing & Infrastructure Development
